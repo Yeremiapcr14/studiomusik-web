@@ -1,0 +1,13 @@
+:root {
+    --navy: #102f50;
+    --navy-dark: #092541;
+    --olive: #d6d8c3;
+    --white: #ffffff;
+
+.navbar {
+    min-height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+}
